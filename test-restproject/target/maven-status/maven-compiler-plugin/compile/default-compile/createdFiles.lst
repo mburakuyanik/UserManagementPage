@@ -1,0 +1,16 @@
+com\user\management\model\output\UserModelOutput.class
+com\user\management\rest\UserRegistrationOutput.class
+com\user\management\dao\impl\HibernateDaoImpl.class
+com\user\management\dao\impl\UserDaoImpl.class
+com\user\management\entity\User_.class
+com\user\management\model\input\UserRegistrationInput.class
+com\user\management\entity\User.class
+com\user\management\dao\HibernateDao.class
+com\user\management\dao\UserDao.class
+com\user\management\model\input\UserCredentialInput.class
+com\user\management\model\UserModel.class
+com\user\management\rest\UserWs.class
+com\user\management\rest\UserCredentialOutput.class
+com\user\management\business\UserManagementBusiness.class
+com\user\management\rest\UserCredentialWs.class
+com\user\management\business\impl\UserManagementBusinessImpl.class

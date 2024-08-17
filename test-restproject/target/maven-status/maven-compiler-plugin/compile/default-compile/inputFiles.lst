@@ -1,0 +1,16 @@
+C:\Users\muhammedu\eclipse-workspace\test-restproject\src\main\java\com\user\management\rest\UserRegistrationOutput.java
+C:\Users\muhammedu\eclipse-workspace\test-restproject\src\main\java\com\user\management\dao\impl\UserDaoImpl.java
+C:\Users\muhammedu\eclipse-workspace\test-restproject\src\main\java\com\user\management\model\output\UserModelOutput.java
+C:\Users\muhammedu\eclipse-workspace\test-restproject\src\main\java\com\user\management\dao\impl\HibernateDaoImpl.java
+C:\Users\muhammedu\eclipse-workspace\test-restproject\src\main\java\com\user\management\model\input\UserCredentialInput.java
+C:\Users\muhammedu\eclipse-workspace\test-restproject\src\main\java\com\user\management\entity\User.java
+C:\Users\muhammedu\eclipse-workspace\test-restproject\src\main\java\com\user\management\entity\UserOriginal.java
+C:\Users\muhammedu\eclipse-workspace\test-restproject\src\main\java\com\user\management\model\UserModel.java
+C:\Users\muhammedu\eclipse-workspace\test-restproject\src\main\java\com\user\management\business\impl\UserManagementBusinessImpl.java
+C:\Users\muhammedu\eclipse-workspace\test-restproject\src\main\java\com\user\management\business\UserManagementBusiness.java
+C:\Users\muhammedu\eclipse-workspace\test-restproject\src\main\java\com\user\management\model\input\UserRegistrationInput.java
+C:\Users\muhammedu\eclipse-workspace\test-restproject\src\main\java\com\user\management\rest\UserCredentialWs.java
+C:\Users\muhammedu\eclipse-workspace\test-restproject\src\main\java\com\user\management\dao\HibernateDao.java
+C:\Users\muhammedu\eclipse-workspace\test-restproject\src\main\java\com\user\management\dao\UserDao.java
+C:\Users\muhammedu\eclipse-workspace\test-restproject\src\main\java\com\user\management\rest\UserCredentialOutput.java
+C:\Users\muhammedu\eclipse-workspace\test-restproject\src\main\java\com\user\management\rest\UserWs.java
